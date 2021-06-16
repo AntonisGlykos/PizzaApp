@@ -1,1 +1,2 @@
 # PizzaApp
+#Spring MVC project
